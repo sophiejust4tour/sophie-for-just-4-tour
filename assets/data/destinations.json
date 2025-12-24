@@ -1,7 +1,7 @@
 [
     {
         "region": "Europa",
-        "name": "Italia",
+        "name": "Banana",
         "tagline": "Borghi nascosti, costa amalfitana, Toscana autentica",
         "description": "L'Italia è un mosaico di esperienze indimenticabili: dalla magia della Costiera Amalfitana ai borghi medievali della Toscana, dalle gondole di Venezia ai sapori autentici della cucina regionale. Ogni angolo racconta una storia millenaria, tra arte, cultura e tradizioni che sopravvivono al tempo.",
         "bestTime": "Aprile - Giugno, Settembre - Ottobre",
@@ -53,6 +53,16 @@
         "region": "Indonesia",
         "name": "Bali",
         "tagline": "Spiritualità, risaie, templi, wellness retreat",
+        "description": "Bali è l'isola degli dei, dove spiritualità e bellezza naturale si fondono in un'armonia perfetta. Dalle terrazze di riso di Ubud ai templi mistici sul mare, dalle spiagge dorate alle foreste tropicali. È il luogo ideale per ritrovare se stessi, tra yoga, meditazione e natura.",
+        "bestTime": "Aprile - Ottobre (stagione secca)",
+        "highlights": "Ubud, Seminyak, Uluwatu, Tirta Empul, Tegallalang Rice Terrace",
+        "experiences": "Yoga retreat, Cerimonie al tempio, Trekking alle risaie, Massaggi balinesi tradizionali",
+        "image": "https://images.unsplash.com/photo-1483683804023-6ccdb62f86ef"
+    },
+    {
+        "region": "fwefwef",
+        "name": "ergerg",
+        "tagline": "Spirergergergergempli, wellness retreat",
         "description": "Bali è l'isola degli dei, dove spiritualità e bellezza naturale si fondono in un'armonia perfetta. Dalle terrazze di riso di Ubud ai templi mistici sul mare, dalle spiagge dorate alle foreste tropicali. È il luogo ideale per ritrovare se stessi, tra yoga, meditazione e natura.",
         "bestTime": "Aprile - Ottobre (stagione secca)",
         "highlights": "Ubud, Seminyak, Uluwatu, Tirta Empul, Tegallalang Rice Terrace",
