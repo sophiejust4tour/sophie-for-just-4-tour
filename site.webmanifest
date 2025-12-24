@@ -1,0 +1,19 @@
+{
+    "name": "Sophie Travel Designer",
+    "short_name": "Sophie Travel",
+    "icons": [
+        {
+            "src": "/assets/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/favicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#b26cba",
+    "background_color": "#fef8ff",
+    "display": "standalone"
+}

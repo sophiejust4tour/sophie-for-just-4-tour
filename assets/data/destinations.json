@@ -1,0 +1,62 @@
+[
+    {
+        "region": "Europa",
+        "name": "Italia",
+        "tagline": "Borghi nascosti, costa amalfitana, Toscana autentica",
+        "description": "L'Italia è un mosaico di esperienze indimenticabili: dalla magia della Costiera Amalfitana ai borghi medievali della Toscana, dalle gondole di Venezia ai sapori autentici della cucina regionale. Ogni angolo racconta una storia millenaria, tra arte, cultura e tradizioni che sopravvivono al tempo.",
+        "bestTime": "Aprile - Giugno, Settembre - Ottobre",
+        "highlights": "Costiera Amalfitana, Cinque Terre, Toscana, Roma, Venezia, Lago di Como",
+        "experiences": "Tour enogastronomici, Cooking class, Visite private ai musei, Soggiorno in agriturismi",
+        "image": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963"
+    },
+    {
+        "region": "Asia",
+        "name": "Giappone",
+        "tagline": "Tradizione e modernità, templi, ryokan, sakura",
+        "description": "Il Giappone è un viaggio tra due mondi: l'antica tradizione dei templi zen, delle geishe e delle cerimonie del tè, e l'ipermodernità di Tokyo con i suoi neon e la tecnologia all'avanguardia. È un paese che incanta con i ciliegi in fiore, i giardini perfetti e una cucina raffinatissima.",
+        "bestTime": "Marzo - Maggio (Sakura), Ottobre - Novembre (Momiji)",
+        "highlights": "Tokyo, Kyoto, Osaka, Monte Fuji, Nara, Hiroshima",
+        "experiences": "Cerimonia del tè, Notte in ryokan, Onsen tradizionali, Tour a piedi nei quartieri storici",
+        "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e"
+    },
+    {
+        "region": "Africa",
+        "name": "Marocco",
+        "tagline": "Riad, deserto, medine, colori e profumi",
+        "description": "Il Marocco è un'esplosione di colori, profumi e suoni. Dalle labirintiche medine di Marrakech e Fes alle dune dorate del Sahara, dai riad decorati con zellige ai souq profumati di spezie. Un viaggio che stimola tutti i sensi e ti trasporta in un mondo fiabesco delle Mille e una Notte.",
+        "bestTime": "Marzo - Maggio, Settembre - Novembre",
+        "highlights": "Marrakech, Fes, Deserto del Sahara, Chefchaouen, Essaouira",
+        "experiences": "Notte nel deserto, Hammam tradizionale, Corso di cucina marocchina, Tour privato delle medine",
+        "image": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2"
+    },
+    {
+        "region": "Oceano Indiano",
+        "name": "Maldive",
+        "tagline": "Paradiso tropicale, resort esclusivi, snorkeling",
+        "description": "Le Maldive sono il sogno ad occhi aperti per eccellenza: ville sull'acqua con pavimenti di vetro, spiagge di sabbia bianchissima, acque cristalline ricche di vita marina. È la destinazione perfetta per una luna di miele romantica o un'esperienza di lusso esclusivo lontano da tutto.",
+        "bestTime": "Novembre - Aprile (stagione secca)",
+        "highlights": "Atollo di Malé, Ari Atoll, Baa Atoll (UNESCO), Resort overwater",
+        "experiences": "Snorkeling con mante, Cena romantica sulla spiaggia, Spa oceanica, Escursioni in barca al tramonto",
+        "image": "https://images.unsplash.com/photo-1506929562872-bb421503ef21"
+    },
+    {
+        "region": "Nord America",
+        "name": "California",
+        "tagline": "On the road, parchi nazionali, Pacific Coast Highway",
+        "description": "La California è libertà su quattro ruote: la leggendaria Pacific Coast Highway che serpeggia tra oceano e montagne, i parchi nazionali spettacolari come Yosemite e Joshua Tree, le vibranti città di San Francisco e Los Angeles. Un road trip che realizza il sogno americano.",
+        "bestTime": "Maggio - Ottobre",
+        "highlights": "San Francisco, Los Angeles, Yosemite, Pacific Coast Highway, Big Sur, Napa Valley",
+        "experiences": "Road trip on the road, Wine tasting a Napa, Escursioni nei parchi nazionali, Tour delle star a Hollywood",
+        "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29"
+    },
+    {
+        "region": "Indonesia",
+        "name": "Bali",
+        "tagline": "Spiritualità, risaie, templi, wellness retreat",
+        "description": "Bali è l'isola degli dei, dove spiritualità e bellezza naturale si fondono in un'armonia perfetta. Dalle terrazze di riso di Ubud ai templi mistici sul mare, dalle spiagge dorate alle foreste tropicali. È il luogo ideale per ritrovare se stessi, tra yoga, meditazione e natura.",
+        "bestTime": "Aprile - Ottobre (stagione secca)",
+        "highlights": "Ubud, Seminyak, Uluwatu, Tirta Empul, Tegallalang Rice Terrace",
+        "experiences": "Yoga retreat, Cerimonie al tempio, Trekking alle risaie, Massaggi balinesi tradizionali",
+        "image": "https://images.unsplash.com/photo-1483683804023-6ccdb62f86ef"
+    }
+]

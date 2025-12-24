@@ -1,0 +1,72 @@
+[
+    {
+        "destination": "Londra",
+        "date": "12 - 15 Febbraio 2026",
+        "description": "Crociera romantica sul Tamigi, cena allo Shard, British Museum e London Eye.",
+        "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad",
+        "pdf": "londra-san-valentino-2026.pdf"
+    },
+    {
+        "destination": "St. Moritz",
+        "date": "6 - 10 Marzo 2026",
+        "description": "Boutique Hotel 4*, Spa, Ski Pass, Yoga, Pilates Reformer e panorami mozzafiato.",
+        "image": "https://images.unsplash.com/photo-1551524559-8af4e6624178",
+        "pdf": "st-moritz-marzo-2026.pdf"
+    },
+    {
+        "destination": "New York",
+        "date": "27 Marzo - 7 Aprile 2026",
+        "description": "Manhattan, Statua della Libertà, Central Park, 5th Avenue, NBA e Messa di Pasqua.",
+        "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9",
+        "pdf": "new-york-pasqua-2026.pdf"
+    },
+    {
+        "destination": "Sharm El Sheikh",
+        "date": "31 Marzo - 7 Aprile 2026",
+        "description": "7 giorni al Sheraton 5*, pensione completa, escursioni e attività avventurose.",
+        "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5",
+        "pdf": "sharm-el-sheikh-aprile-2026.pdf"
+    },
+    {
+        "destination": "Lisbona",
+        "date": "1 - 7 Aprile 2026",
+        "description": "Tour di Belém, Fado, Palazzo di Pena, festa in barca al tramonto e molto altro.",
+        "image": "https://images.unsplash.com/photo-1536663815808-535e2280d2c2",
+        "pdf": "lisbona-aprile-2026.pdf"
+    },
+    {
+        "destination": "Tenerife",
+        "date": "15 - 19 Aprile 2026",
+        "description": "Siam Park, Loro Parque, quad sul Monte Teide, crociera per balene e delfini.",
+        "image": "https://images.unsplash.com/photo-1540390769625-2fc3f8b1d50c",
+        "pdf": "tenerife-aprile-2026.pdf"
+    },
+    {
+        "destination": "Salalah",
+        "date": "24 Aprile - 2 Maggio 2026",
+        "description": "All Inclusive, tour della città, osservazione delfini e safari nel deserto.",
+        "image": "https://images.unsplash.com/photo-1547234935-80c7145ec969",
+        "pdf": "salalah-aprile-2026.pdf"
+    },
+    {
+        "destination": "Roma",
+        "date": "27 Aprile - 2 Maggio 2026",
+        "description": "Tour della città, monumenti principali, passeggiate e night life. Da Milano.",
+        "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5",
+        "pdf": "roma-ponte-maggio-2026.pdf"
+    },
+    {
+        "destination": "Roma",
+        "date": "20 - 23 Maggio 2026",
+        "description": "Traghetto da Olbia, American Palace 4*, tour monumenti e night life romana.",
+        "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5",
+        "pdf": "roma-maggio-2026.pdf"
+    },
+    {
+        "destination": "Valencia",
+        "date": "22 - 28 Giugno 2026",
+        "description": "Vacanza family: acquario, museo della scienza, flamenco e tour in bicicletta.",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64",
+        "pdf": "valencia-family-giugno-2026.pdf"
+    }
+]
